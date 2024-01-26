@@ -1,3 +1,5 @@
 Proyecto de clase 
 Git y GitHub
 Agrego un for al documento
+Se creo el repo en Github
+ahora usamos el comando push
